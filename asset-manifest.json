@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/-Snake-Game/static/css/main.e6c13ad2.css",
+    "main.js": "/-Snake-Game/static/js/main.898ae2aa.js",
+    "static/js/453.aac52329.chunk.js": "/-Snake-Game/static/js/453.aac52329.chunk.js",
+    "static/media/countdown.mp3": "/-Snake-Game/static/media/countdown.7fb3a738fda37994eb87.mp3",
+    "index.html": "/-Snake-Game/index.html",
+    "main.e6c13ad2.css.map": "/-Snake-Game/static/css/main.e6c13ad2.css.map",
+    "main.898ae2aa.js.map": "/-Snake-Game/static/js/main.898ae2aa.js.map",
+    "453.aac52329.chunk.js.map": "/-Snake-Game/static/js/453.aac52329.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.898ae2aa.js"
+  ]
+}
