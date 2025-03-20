@@ -4,7 +4,7 @@ A modern take on the classic Snake Game, built using **React**! Eat the food, gr
 
 ## 🚀 Live Demo
 
-[🎮 Play the Game Now!](https://your-live-demo-link.com)
+[🎮 Play the Game Now!](https://akramshaik615.github.io/-Snake-Game/)
 
 ---
 
@@ -64,6 +64,21 @@ A modern take on the classic Snake Game, built using **React**! Eat the food, gr
 
 1. Clone the repository:
 
-```bash
 git clone https://github.com/yourusername/react-snake-game.git
 cd react-snake-game
+
+2.Install dependencies:
+npm install
+
+3.Start the development server:
+npm start
+
+4.Open http://localhost:3000 in your browser to play!
+
+## 📢 Acknowledgements
+Inspired by the classic Snake Game we all know and love, modernized using React!
+
+## 📬 Contact
+Developer: Shaik Akram
+Email: akramroy813@gmail.com
+LinkedIn: https://www.linkedin.com/in/shaik-akram-3a6429228/
